@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440306277764",
+    "project_id": "plano-r-f10fc",
+    "storage_bucket": "plano-r-f10fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440306277764:android:b408a695de6fff71e911d1",
+        "android_client_info": {
+          "package_name": "com.planor.planor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440306277764-2veopp05dqmvb93qgtfalt8plpgpsqpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmd9-9Q-ZEWsRaH0GyvmW0p1O3Iku_210"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440306277764-2veopp05dqmvb93qgtfalt8plpgpsqpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
